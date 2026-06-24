@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-pass-the-pillow](https://github.com/Harshal7833/LeetCode/tree/master/2582-pass-the-pillow) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harshal7833/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harshal7833/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
