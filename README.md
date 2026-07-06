@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Harshal7833/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Harshal7833/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Harshal7833/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Harshal7833/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Harshal7833/LeetCode/tree/master/0507-perfect-number) |
 | [2582-pass-the-pillow](https://github.com/Harshal7833/LeetCode/tree/master/2582-pass-the-pillow) |
 ## Simulation
@@ -38,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Harshal7833/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Harshal7833/LeetCode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Harshal7833/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
