@@ -3,7 +3,7 @@ class Solution {
         int i = 1;
         int sum = 0;
         int temp = num;
-        while (i < num){
+        while (i != num){
             if ( num % i == 0){
                 sum = sum + i;
             }
