@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Harshal7833/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Harshal7833/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Harshal7833/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Harshal7833/LeetCode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Harshal7833/LeetCode/tree/master/0507-perfect-number) |
 | [2582-pass-the-pillow](https://github.com/Harshal7833/LeetCode/tree/master/2582-pass-the-pillow) |
 ## Simulation
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshal7833/LeetCode/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Harshal7833/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
