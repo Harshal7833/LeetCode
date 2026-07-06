@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Harshal7833/LeetCode/tree/master/0007-reverse-integer) |
 | [2582-pass-the-pillow](https://github.com/Harshal7833/LeetCode/tree/master/2582-pass-the-pillow) |
 ## Simulation
 |  |
