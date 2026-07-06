@@ -9,7 +9,10 @@ class Solution {
             }
             i++;
         }
-        if (temp == sum) return true;
-        return false;
+        if (temp == sum) {
+            return true;
+        }else {
+            return false;
+        }
     }
 }
