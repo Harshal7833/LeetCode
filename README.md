@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshal7833/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshal7833/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Harshal7833/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Harshal7833/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Harshal7833/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Harshal7833/LeetCode/tree/master/0292-nim-game) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Harshal7833/LeetCode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshal7833/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
