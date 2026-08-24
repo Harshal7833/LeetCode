@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshal7833/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Harshal7833/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Harshal7833/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Harshal7833/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Harshal7833/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Harshal7833/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Harshal7833/LeetCode/tree/master/0292-nim-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshal7833/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Harshal7833/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Harshal7833/LeetCode/tree/master/0268-missing-number) |
 ## Brainteaser
 |  |
@@ -96,6 +98,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshal7833/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Harshal7833/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Harshal7833/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal7833/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Harshal7833/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
