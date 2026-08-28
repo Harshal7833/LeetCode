@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal7833/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal7833/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshal7833/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshal7833/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Harshal7833/LeetCode/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/Harshal7833/LeetCode/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Harshal7833/LeetCode/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshal7833/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
