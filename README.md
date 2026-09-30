@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Harshal7833/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Harshal7833/LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal7833/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Harshal7833/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/Harshal7833/LeetCode/tree/master/2582-pass-the-pillow) |
 ## Simulation
 |  |
